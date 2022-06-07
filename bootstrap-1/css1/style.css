@@ -1,0 +1,24 @@
+body{
+    font: 20px Arial, sans-serif;
+}
+.navbar {
+    background-color: #A4A4A4;
+}
+.quem-somos{
+    background-color: #0A122A;
+    color:white;
+}
+.servicos{
+    background-color: gainsboro;
+}
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+.parceiros{
+    background-color: aqua;
+}
+.bg-footer{
+    background-color: black;
+    color: white;
+}
